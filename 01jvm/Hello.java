@@ -10,8 +10,7 @@ public class Hello {
         }
         for (int i = 0; i < num1; i++) {
             // 四则运算: num1 * num4 = 4
-            System.out.print("四则运算: num1 * num4 = ");
-            System.out.println(num1 * num4);
+            System.out.print("四则运算: num1 * num4 = "+(num1 * num4)+"\n");
         }
     }
 }
